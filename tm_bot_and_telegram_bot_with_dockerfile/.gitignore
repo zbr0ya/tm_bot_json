@@ -1,0 +1,8 @@
+.idea
+__pycache__
+telegram_token.py
+endopoint.py
+setting.py
+skin_full_info.json
+my_inventory_info.json
+aiogram_setting.py
